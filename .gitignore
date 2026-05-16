@@ -1,0 +1,83 @@
+# =========================
+# Visual Studio 2022
+# =========================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS cache/options
+.vs/
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Publish output
+publish/
+
+# Test results
+TestResults/
+
+# Generated files
+Generated_Code/
+
+# Azure
+PublishProfiles/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Windows thumbnails
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Node modules (si usas frontend)
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# IIS Express
+.vsconfig
+applicationhost.config
